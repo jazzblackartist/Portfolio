@@ -69,13 +69,16 @@ h3 {
 
 .skills {
   margin-top: 100px;
+
 }
 
 .skill-row {
   display: inline-block;
-  padding-left: 100px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 100px;
   margin-bottom: 100px;
+  padding: 50px;
 }
 
 .middle-container {
